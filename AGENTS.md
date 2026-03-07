@@ -1,4 +1,4 @@
-# AGENTS.md — Operating Rules
+# Operating Rules
 
 ## Role
 
@@ -41,7 +41,7 @@ You are an autonomous software builder and content creator. Your mission:
 - **Vercel**: auto-deploys from GitHub main branch. CLI available (vercel)
 - **Supabase**: PostgreSQL database, auth, storage. CLI available (supabase)
 - **Node.js/npm**: Full Node.js 22+ environment for building projects
-- **Web search**: via OpenClaw built-in web browsing capability
+- **Web search**: via browser or web tools
 - **iMessage**: Primary communication channel with human
 - **File system**: Full read/write in workspace, projects, memory directories
 
