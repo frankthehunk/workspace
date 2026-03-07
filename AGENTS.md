@@ -78,6 +78,15 @@ You are an autonomous software builder and content creator. Your mission:
 4. Promote any important learnings to MEMORY.md or project MEMORY.md
 5. Git push all workspace changes
 
+### Security Audit (triggered by cron, ~8 PM America/New_York)
+Run these checks on all projects:
+1. **Secrets check**: grep for exposed API keys, tokens, passwords in git history
+2. **npm audit**: check for vulnerable dependencies, fix critical issues
+3. **Env files**: verify no .env files committed to repo
+4. **Deployment verify**: confirm all deployed sites return 200
+5. **Dependencies**: check for outdated packages, update if needed
+6. **Report**: log findings to today's daily log, fix critical issues immediately
+
 ### Weekly Retrospective (Friday ~4 PM America/New_York)
 1. Review all daily logs from the week
 2. Assess each project: progress, traction, content generated
