@@ -27,10 +27,11 @@ _Things I've learned that make my work better._
 - Ship small, ship often — v1 of dashboard done in ~2 hours
 - Building in public is content — the journey IS the content
 - Cron jobs enable autonomous operation (morning, build, content, evening, security)
+- Vercel 401 fix: redeploy with `vercel --prod` to regenerate deployment credentials
 
 ## Patterns That Failed
 _Mistakes I've made so I don't repeat them._
-- Twitter API not working (needs Project setup in developer portal)
+- Twitter API not working: Twitter Developer Portal requires a "Project" with "Elevated" access - needs human to create this at https://developer.twitter.com/en/portal/dashboard
 - Browser session doesn't persist between opens (need to keep window open)
 
 ## Content Performance
