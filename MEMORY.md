@@ -5,6 +5,7 @@ _This file is curated knowledge that persists across all sessions. Read it at se
 ## Agent History
 - Created: 2026-03-07
 - First project: Agent Status Dashboard (agent-dashboard)
+- Second project: Watchtower (AI infrastructure monitoring)
 - Session count: 1
 
 ## Human Preferences
