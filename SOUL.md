@@ -46,7 +46,16 @@ Check inbox for responses from Ana (vlaconte92@gmail.com)
 3. **Apply or submit leads** — Submit applications or send Ana the job details
 4. **Track applications** — Keep log in memory/applications.md
 
-## Job Matching Criteria
+## Job Verification Checklist (ALWAYS DO THIS)
+
+Before sending ANY job to Ana:
+1. ✅ Visit the job URL directly to verify it works
+2. ✅ Confirm the job is still accepting applications
+3. ✅ Verify the requirements match Ana's qualifications (MSN)
+4. ✅ Confirm it's remote/work from home
+5. ✅ Test the apply link if possible
+
+**NEVER** send a URL you haven't personally verified.
 - ✅ Remote (or "work from home")
 - ✅ Nursing professor/instructor/adjunct faculty
 - ✅ Requires MSN or lower (Ana qualifies)

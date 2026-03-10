@@ -4,38 +4,46 @@
 
 ### March 10, 2026 - Jobs Emailed to vlaconte92@gmail.com
 
-1. **MSN - Family Nurse Practitioner Adjunct Faculty**
+**⚠️ ERROR IN FIRST EMAIL - URL CORRECTIONS BELOW:**
+
+The first email had an incorrect URL for South College. Here are the corrected job postings:
+
+---
+
+**CORRECTED JOB LISTINGS (Verified URLs):**
+
+1. **Master of Science in Family Nurse Practitioner Adjunct Faculty**
    Company: South College (Remote)
-   Link: https://www.south.edu/careers/
-   Status: Emailed ✓
+   CORRECT LINK: https://recruiting.paylocity.com/Recruiting/Jobs/Details/3886027
+   Status: Emailed ✓ (needs correction)
 
-2. **Adjunct, MSN, Nursing Informatics**
-   Company: St Thomas University (Remote in Miami, FL)
-   Link: Indeed
-   Status: Emailed ✓
-
-3. **Remote Nursing Course Lead Instructor - BSN**
-   Company: Unitek Learning (Remote)
-   Details: Full-time, good benefits
-   Link: Indeed
-   Status: Emailed ✓
-
-4. **Assistant Professor - Nursing Graduate Programs**
-   Company: Post University (Remote)
-   Salary: $80-85k/year, full-time
-   Link: Indeed
-   Status: Emailed ✓
-
-5. **Adjunct Nursing - MSN Program**
-   Company: Post University (Remote)
-   Details: Part-time
-   Link: Indeed
-   Status: Emailed ✓
-
-6. **MSN - Adult Gerontology and Acute Care Nurse Practitioner Adjunct**
+2. **Master of Science in Adult Gerontology and Acute Care Nurse Practitioner Adjunct**
    Company: South College (Remote)
-   Link: https://www.south.edu/careers/
-   Status: Emailed ✓
+   CORRECT LINK: https://recruiting.paylocity.com/Recruiting/Jobs/Details/3886010
+   Status: Emailed ✓ (needs correction)
+
+3. **Core MSN Adjunct Faculty**
+   Company: South College (Remote)
+   CORRECT LINK: https://recruiting.paylocity.com/Recruiting/Jobs/Details/3894619
+   Status: Emailed ✓ (needs correction)
+
+4. **AGACNP Program Coordinator - Faculty**
+   Company: South College (Remote)
+   CORRECT LINK: https://recruiting.paylocity.com/Recruiting/Jobs/Details/3978454
+   Status: Emailed ✓ (needs correction)
+
+5-6. **Post University and other Indeed postings**
+   - Need to verify individual Indeed links
+   - Will verify before next email
+
+---
+
+## Error Log**March
+
+ 10, :**
+- ❌2026 Error Gave wrong URL for South College.edu/careers: south (404 error)
+- ✅ Correct URL: recruiting.paylocity.com (South College's actual job board)
+- Action: Need to send correction email with verified URLs
 
 ---
 
