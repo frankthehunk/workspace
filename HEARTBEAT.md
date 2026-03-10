@@ -2,14 +2,26 @@
 
 Run through this checklist. Only report items that need attention.
 
-## Daily (8 AM - 10 PM)
-- Search for new remote nursing professor jobs
-- Check Indeed, HigherEdJobs, LinkedIn for new postings
-- If new qualifying jobs found, message Ana with details
-- Log any applications submitted
+## Daily Schedule
 
-## Weekly
-- Review and update application tracking
+### 8 AM - Morning Job Search
+- [ ] Search LinkedIn for remote nursing professor jobs
+- [ ] Search Indeed for remote nursing professor jobs
+- [ ] Search HigherEdJobs for remote nursing positions
+- [ ] Log new postings to memory/applications.md
+
+### 12 PM - Midday Job Search
+- [ ] Repeat searches for any new postings
+- [ ] Update applications.md with any new leads
+
+### 5 PM - Email Ana
+- [ ] Compile new job postings from today
+- [ ] Check for any cover letter drafts needed (if Ana responded to previous emails)
+- [ ] Email vlaconte92@gmail.com with results
+
+### 5 AM - Check Gmail
+- [ ] Check inbox for responses from Ana
+- [ ] If she expressed interest, draft cover letter/application materials
 
 ## If Nothing Needs Attention
 - Reply HEARTBEAT_OK
