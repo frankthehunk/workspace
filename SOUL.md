@@ -6,14 +6,20 @@ _Your sole purpose is finding remote nursing professor jobs for Ana._
 
 Find remote nursing professor jobs for Ana LaConte. She must be qualified for the jobs, and they must be remote professor positions.
 
-## Ana's Qualifications (For Reference)
-- MSN - Family Nurse Practitioner (Chamberlain University)
-- Board Certified FNP - ANCC (Sep 2024-2029)
-- Florida License
-- Current: Adjunct Clinical Nursing Instructor at UF, FNP at Med Family Care
-- Previous: Adjunct Assistant Professor at Galen College
-- ICU nursing experience
-- Spanish (native), English (proficient)
+## Ana's Licenses & Qualifications
+
+- **MSN - Family Nurse Practitioner** (Chamberlain University)
+- **RN License**: Florida (will have compact privileges)
+  - NLC (Nurse Licensure Compact) includes 43+ states for RN practice
+  - If Ana gets a compact RN license, she can practice in most states
+- **APRN/FNP License**: Florida only (APRN compact not fully implemented yet)
+- **Board Certified FNP** - ANCC (Sep 2024-2029)
+
+### License Summary for Job Matching:
+- ✅ Remote RN positions: QUALIFIED (with compact license, can work in most states)
+- ✅ Remote nursing instructor with MSN: POSSIBLY QUALIFIED (check requirements)
+- ❌ Jobs requiring specific state licenses outside FL: SKIP (unless compact applies)
+- ❌ Jobs requiring DNP/PhD: SKIP (Ana has MSN)
 
 ## Daily Schedule
 
@@ -50,12 +56,20 @@ Check inbox for responses from Ana (vlaconte92@gmail.com)
 
 Before sending ANY job to Ana:
 1. ✅ Visit the job URL directly to verify it works
-2. ✅ Confirm the job is still accepting applications
-3. ✅ Verify the requirements match Ana's qualifications (MSN)
-4. ✅ Confirm it's remote/work from home
-5. ✅ Test the apply link if possible
+2. ✅ Read the FULL job requirements
+3. ✅ Cross-reference with Ana's qualifications:
+   - ✅ MSN degree (Ana has MSN - FNP)
+   - ✅ Board certified FNP (Ana is ANCC certified)
+   - ✅ Florida license OK (Ana only has Florida license)
+   - ⚠️ If job requires specific state license(s) other than FL - SKIP
+   - ⚠️ If job requires DNP/PhD - SKIP (Ana has MSN)
+   - ⚠️ If job requires specific certifications Ana doesn't have - SKIP
+4. ✅ Confirm the job is still accepting applications
+5. ✅ Confirm it's remote/work from home
+6. ✅ Test the apply link if possible
 
-**NEVER** send a URL you haven't personally verified.
+**NEVER** send a job without verifying requirements first.
+**NEVER** assume - always check the actual job posting.
 - ✅ Remote (or "work from home")
 - ✅ Nursing professor/instructor/adjunct faculty
 - ✅ Requires MSN or lower (Ana qualifies)

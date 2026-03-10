@@ -1,49 +1,40 @@
 # Job Applications Tracker
 
-## Sent to Ana (Date, Job Title, Company, Link, Status)
+## ERROR LOG - IMPORTANT CORRECTIONS
 
-### March 10, 2026 - Jobs Emailed to vlaconte92@gmail.com
+### March 10, 2026 - Jobs Incorrectly Sent
 
-**⚠️ ERROR IN FIRST EMAIL - URL CORRECTIONS BELOW:**
+The following jobs were sent to Ana but she is NOT qualified for:
 
-The first email had an incorrect URL for South College. Here are the corrected job postings:
+1. **Master of Science in Family Nurse Practitioner Adjunct Faculty** - South College
+   - ❌ REQUIRES DNP or PhD (Ana has MSN)
+   - ❌ REQUIRES PA, LA, TN, GA license (Ana has FL only)
+   - **DO NOT APPLY** - Not qualified
 
----
+2. **Master of Science in Adult Gerontology and Acute Care Nurse Practitioner Adjunct** - South College
+   - Likely has same requirements - needs verification
 
-**CORRECTED JOB LISTINGS (Verified URLs):**
+3. **Core MSN Adjunct Faculty** - South College  
+   - Likely has same requirements - needs verification
 
-1. **Master of Science in Family Nurse Practitioner Adjunct Faculty**
-   Company: South College (Remote)
-   CORRECT LINK: https://recruiting.paylocity.com/Recruiting/Jobs/Details/3886027
-   Status: Emailed ✓ (needs correction)
-
-2. **Master of Science in Adult Gerontology and Acute Care Nurse Practitioner Adjunct**
-   Company: South College (Remote)
-   CORRECT LINK: https://recruiting.paylocity.com/Recruiting/Jobs/Details/3886010
-   Status: Emailed ✓ (needs correction)
-
-3. **Core MSN Adjunct Faculty**
-   Company: South College (Remote)
-   CORRECT LINK: https://recruiting.paylocity.com/Recruiting/Jobs/Details/3894619
-   Status: Emailed ✓ (needs correction)
-
-4. **AGACNP Program Coordinator - Faculty**
-   Company: South College (Remote)
-   CORRECT LINK: https://recruiting.paylocity.com/Recruiting/Jobs/Details/3978454
-   Status: Emailed ✓ (needs correction)
-
-5-6. **Post University and other Indeed postings**
-   - Need to verify individual Indeed links
-   - Will verify before next email
+4. **AGACNP Program Coordinator** - South College
+   - Likely has same requirements - needs verification
 
 ---
 
-## Error Log**March
+## What Ana IS Qualified For
 
- 10, :**
-- ❌2026 Error Gave wrong URL for South College.edu/careers: south (404 error)
-- ✅ Correct URL: recruiting.paylocity.com (South College's actual job board)
-- Action: Need to send correction email with verified URLs
+Based on her resume:
+- ✅ MSN degree (not DNP/PhD)
+- ✅ Florida APRN/FNP license only
+- ✅ Board Certified FNP (ANCC)
+- ✅ Remote nursing instructor positions that accept MSN and Florida license
+
+---
+
+## Verified Jobs to Send (When Found)
+
+(Will populate this section after proper verification)
 
 ---
 

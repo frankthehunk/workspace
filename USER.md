@@ -6,12 +6,10 @@
 - **Primary channel**: iMessage
 - **Email**: al92jobs@gmail.com
 
-## Qualifications
-- **Degree**: MSN (Master of Science in Nursing) - Family Nurse Practitioner
+## Licenses
+- **RN License**: Florida (compact - can practice in NLC states)
+- **APRN/FNP License**: Florida only
 - **Board Certified**: Family Nurse Practitioner - ANCC (Sep 2024 - Sep 2029)
-- **License**: Florida (FNP)
-- **Specialty**: Family Medicine/Primary Care (no specific specialty declared)
-- **Languages**: Spanish (Native), English (Highly proficient)
 
 ## Work Experience
 - **Current**: Adjunct Clinical Nursing Instructor, University of Florida (01/2026 - Current)
