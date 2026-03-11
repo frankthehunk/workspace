@@ -1,49 +1,66 @@
 # Job Applications Tracker
 
-## ERROR LOG - IMPORTANT CORRECTIONS
-
-### March 10, 2026 - Jobs Incorrectly Sent
-
-The following jobs were sent to Ana but she is NOT qualified for:
-
-1. **Master of Science in Family Nurse Practitioner Adjunct Faculty** - South College
-   - ❌ REQUIRES DNP or PhD (Ana has MSN)
-   - ❌ REQUIRES PA, LA, TN, GA license (Ana has FL only)
-   - **DO NOT APPLY** - Not qualified
-
-2. **Master of Science in Adult Gerontology and Acute Care Nurse Practitioner Adjunct** - South College
-   - Likely has same requirements - needs verification
-
-3. **Core MSN Adjunct Faculty** - South College  
-   - Likely has same requirements - needs verification
-
-4. **AGACNP Program Coordinator** - South College
-   - Likely has same requirements - needs verification
+## Ana's Qualifications Summary
+- MSN - Family Nurse Practitioner
+- Board Certified FNP (ANCC)
+- Florida RN license (compact - works in NLC states)
+- Current: Adjunct Clinical Nursing Instructor at UF, FNP at Med Family Care
 
 ---
 
-## What Ana IS Qualified For
+## VERIFIED JOBS - READY TO SEND
 
-Based on her resume:
-- ✅ MSN degree (not DNP/PhD)
-- ✅ Florida APRN/FNP license only
-- ✅ Board Certified FNP (ANCC)
-- ✅ Remote nursing instructor positions that accept MSN and Florida license
+### Remote RN Positions (4 verified):
+1. **Clinical Claims Review Nurse** - CVS Health (Remote)
+   - Requires: RN license in state of residence
+   - Ana qualifies (FL compact)
+   - Salary: $29-62/hr
+   - Link: https://www.linkedin.com/jobs/view/4383381709/
+
+2. **Appeal Analyst RN** - Rangam (Remote)
+   - Requires: RN, 2+ years experience
+   - Ana qualifies
+   - Salary: $36-40/hr
+   - Link: https://www.linkedin.com/jobs/view/4383322859/
+
+3. **Appeals Nurse Consultant** - CVS Health (Remote)
+   - Requires: Active/unrestricted RN license in state of residence
+   - Ana qualifies (FL RN)
+   - Salary: $66.6K-142.6K/yr
+   - Link: https://www.linkedin.com/jobs/view/4382189200/
+
+4. **Case Manager, Registered Nurse** - CVS Health (Remote)
+   - Requires: Active unrestricted state RN Compact licensure
+   - Florida preferred - Ana qualifies!
+   - Salary: $60.5K-129.6K/yr
+   - Link: https://www.linkedin.com/jobs/view/4382189195/
+
+### Remote NP Positions (1 verified):
+5. **Primary Care Telehealth NP** - NPHire (Remote)
+   - Requires: Active NP license in one US state + FNP certification
+   - Ana qualifies (FL license + ANCC FNP)!
+   - Salary: $75-100/hr
+   - Link: https://www.linkedin.com/jobs/view/4382494109/
+
+### Remote Nursing Professor Positions (potentially 1):
+6. **University Lecturer** - Crossing Hurdles (Remote)
+   - Requires: Master's degree in Education or related field
+   - Ana has MSN - may qualify (not specifically nursing)
+   - Salary: $49-98/hr
+   - Link: https://www.linkedin.com/jobs/view/4369884794/
 
 ---
 
-## Verified Jobs to Send (When Found)
-
-(Will populate this section after proper verification)
+## NOT QUALIFIED (Verified):
+- SoTalent NP - Requires California license only
+- South College jobs - Requires DNP/PhD
 
 ---
 
-## Cover Letter Drafts
-
-(When Ana expresses interest in a job, draft cover letter here)
+## Jobs Already Sent (DO NOT RESEND):
+- March 10 first email: South College jobs (ERROR - NOT QUALIFIED)
 
 ---
 
 ## Jobs Applied To
-
-(If Ana decides to apply, track here)
+(Track here)
