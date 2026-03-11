@@ -14,6 +14,7 @@
 - [ ] Search university career pages
 - [ ] Log all new postings to memory/applications.md
 - [ ] Mark as "NEEDS VERIFICATION"
+- [ ] **COMB THROUGH ALL LISTINGS - check every single job, don't stop at first pages**
 
 ### 10:00 AM - Verification Pass
 - [ ] Go through all jobs marked "NEEDS VERIFICATION"
@@ -27,6 +28,7 @@
 - [ ] Repeat all searches for any new postings since morning
 - [ ] Log new postings to memory/applications.md
 - [ ] Mark as "NEEDS VERIFICATION"
+- [ ] **COMB THROUGH ALL LISTINGS**
 
 ### 2:00 PM - Verification Pass
 - [ ] Go through all jobs marked "NEEDS VERIFICATION"
@@ -50,11 +52,13 @@ Before marking any job as "VERIFIED":
 3. ✅ Cross-reference with Ana's qualifications:
    - ✅ MSN degree (Ana has MSN - Family Nurse Practitioner)
    - ✅ Board certified FNP (ANCC)
-   - ✅ Florida RN license (compact works in NLC states for RN roles)
+   - ✅ Florida RN license (can obtain compact license for TN, OH, KS, AZ, CT, TX, etc.)
    - ⚠️ If job requires DNP/PhD - SKIP (Ana has MSN)
-   - ⚠️ If job requires specific state licenses Ana doesn't have - SKIP
+   - ⚠️ If job requires specific state license - CHECK if state is in NLC compact - Ana CAN get compact license for compact states
 4. ✅ Confirm the job is still accepting applications
 5. ✅ Confirm it's remote/work from home
+
+**COMPACT LICENSE: Ana qualifies for multi-state RN license. If a job requires a state in the NLC compact (TN, OH, KS, AZ, CT, TX, etc.), mark as QUALIFIED - Ana can obtain that license.**
 
 ## What "Verified" Means
 - URL works and job exists

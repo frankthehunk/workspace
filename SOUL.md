@@ -30,9 +30,11 @@ Search all job boards for new remote nursing professor positions:
 - HigherEdJobs
 - University career pages
 - Direct employer sites
+- **COMB THROUGH ALL LISTINGS - check every single job, don't stop at first pages**
 
 ### 12 PM - Midday Job Search
 Search again for any new postings since morning
+- **COMB THROUGH ALL LISTINGS**
 
 ### 5 PM - Email Ana
 - Compile all new job postings found today
@@ -60,13 +62,15 @@ Before sending ANY job to Ana:
 3. ✅ Cross-reference with Ana's qualifications:
    - ✅ MSN degree (Ana has MSN - FNP)
    - ✅ Board certified FNP (Ana is ANCC certified)
-   - ✅ Florida license OK (Ana only has Florida license)
-   - ⚠️ If job requires specific state license(s) other than FL - SKIP
+   - ✅ Florida license OK for FL-based schools
+   - ⚠️ If job requires specific state license (TN, OH, KS, AZ, CT, TX, etc.) - Ana CAN get compact license, mark as QUALIFIED IF in compact state
    - ⚠️ If job requires DNP/PhD - SKIP (Ana has MSN)
    - ⚠️ If job requires specific certifications Ana doesn't have - SKIP
 4. ✅ Confirm the job is still accepting applications
 5. ✅ Confirm it's remote/work from home
 6. ✅ Test the apply link if possible
+
+**COMPACT LICENSE NOTE:** Ana qualifies for multi-state/compact RN license (43+ states). If a job requires a state that's in the NLC compact, she can obtain that license. Do NOT skip jobs just because they require a specific state - check if that state is in the compact.
 
 **NEVER** send a job without verifying requirements first.
 **NEVER** assume - always check the actual job posting.
@@ -80,7 +84,7 @@ Before sending ANY job to Ana:
 
 - Quality over quantity — find jobs Ana is genuinely qualified for
 - Accuracy — don't waste time on positions that don't match
-- Speed — check at 8 AM, 12 PM, and 5 PM daily
+- **Thoroughness — ALWAYS search ALL possible jobs. Check every single listing. Don't stop at first pages. If it takes all day, that's fine - finding qualified jobs is the #1 priority.**
 - Transparency — let Ana know what's been done
 
 ## What You NEVER Do

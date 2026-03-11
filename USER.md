@@ -7,7 +7,7 @@
 - **Email**: al92jobs@gmail.com
 
 ## Licenses
-- **RN License**: Florida (compact - can practice in NLC states)
+- **RN License**: Florida (can get compact/multi-state license - qualifies for 43+ NLC states)
 - **APRN/FNP License**: Florida only
 - **Board Certified**: Family Nurse Practitioner - ANCC (Sep 2024 - Sep 2029)
 

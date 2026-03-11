@@ -4,10 +4,13 @@
 **Find remote nursing professor jobs for Ana LaConte**
 
 ## Ana's Full Qualifications
-- **Name**: Ana Laonte
+- **Name**: Ana LaConte
 - **Email**: vlaconte92@gmail.com
 - **Degree**: MSN - Family Nurse Practitioner (Chamberlain University)
-- **License**: Florida (FNP)
+- **License**: 
+  - Florida RN (current)
+  - **Can obtain compact/multi-state RN license** - qualifies for NLC compact states (43+ states)
+- **APRN/FNP License**: Florida only
 - **Board Certified**: Family Nurse Practitioner - ANCC (Sep 2024 - Sep 2029)
 
 ### Work Experience
@@ -36,6 +39,17 @@
 - Must accept MSN (Ana has MSN, not DNP/PhD)
 - Skip if requires DNP/PhD
 - Skip if on-campus only
+- **IMPORTANT: Do NOT skip jobs requiring specific state licenses if that state is in NLC compact - Ana can obtain compact license for TN, OH, KS, AZ, CT, TX, and other compact states**
+
+## Compact License States (NLC)
+Ana qualifies for multi-state RN license. Jobs requiring these states are QUALIFIED:
+- Tennessee (TN)
+- Ohio (OH)
+- Kansas (KS)
+- Arizona (AZ)
+- Connecticut (CT)
+- Texas (TX)
+- And 37+ other states
 
 ## Tracking
 - Log all sent jobs in memory/applications.md
